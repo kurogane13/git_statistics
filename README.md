@@ -18,6 +18,8 @@ This program obtains statisctis for repos and branches based on user data:
 - Delete all log files
 - Generate a futuristic HTML report from a created log file
 
+### You can view screenshots from the program in the screenshots folder
+
 ## 🚀 Getting Started
 
 1. Clone this repository:
