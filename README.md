@@ -1,14 +1,22 @@
-# 📅 Date Created: 03/08/2025
-
----
+# Date Created: 03/08/2025
+# AUTHOR: Gustavo Wydler Azuaga
 
 # git_statistics
 
 Welcome to the **git_statistics** repository! 🎉
 
 ## 📌 About This Project
-This repository serves as a starting point for version-controlled projects.
-Feel free to modify and expand upon it as needed.
+This program obtains statisctis for repos and branches based on user data: 
+
+### Features
+
+- Query all repositories for a user
+- Query a specific repository for a user
+- View log files
+- Search for a pattern in a log file
+- Delete a specific log file
+- Delete all log files
+- Generate a futuristic HTML report from a created log file
 
 ## 🚀 Getting Started
 
